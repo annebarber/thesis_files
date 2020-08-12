@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: apalike.bst
+Database file #1: references.bib
+Repeated entry---line 637 of file references.bib
+ : @article{kang2011
+ :                  ,
+I'm skipping whatever remains of this entry
+You've used 26 entries,
+            1935 wiz_defined-function locations,
+            637 strings with 9158 characters,
+and the built_in function-call counts, 12205 in all, are:
+= -- 1184
+> -- 612
+< -- 11
++ -- 228
+- -- 214
+* -- 1180
+:= -- 2114
+add.period$ -- 78
+call.type$ -- 26
+change.case$ -- 234
+chr.to.int$ -- 26
+cite$ -- 26
+duplicate$ -- 362
+empty$ -- 791
+format.name$ -- 259
+if$ -- 2314
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 26
+newline$ -- 133
+num.names$ -- 78
+pop$ -- 171
+preamble$ -- 1
+purify$ -- 234
+quote$ -- 0
+skip$ -- 277
+stack$ -- 0
+substring$ -- 1005
+swap$ -- 26
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 0
+while$ -- 98
+width$ -- 0
+write$ -- 340
+(There was 1 error message)

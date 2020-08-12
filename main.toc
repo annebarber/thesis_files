@@ -1,0 +1,41 @@
+\contentsline {chapter}{\numberline {1}What controls the initiation and development of non-precipitating shallow cumulus clouds in an idealised model framework?}{2}% 
+\contentsline {section}{\numberline {1.1}Generating shallow convective clouds in LES using localised surface fluxes}{2}% 
+\contentsline {subsection}{\numberline {1.1.1}Motivation}{2}% 
+\contentsline {subsubsection}{Chapter overview}{4}% 
+\contentsline {subsection}{\numberline {1.1.2}Choosing localised flux parameters}{4}% 
+\contentsline {subsection}{\numberline {1.1.3}Results - Single\_C}{5}% 
+\contentsline {subsection}{\numberline {1.1.4}Flux sensitivities}{8}% 
+\contentsline {subsection}{\numberline {1.1.5}Multi Flux - Experimental Design}{13}% 
+\contentsline {subsection}{\numberline {1.1.6}Results - Multi\_REF}{15}% 
+\contentsline {subsubsection}{Cloud evolution}{15}% 
+\contentsline {subsubsection}{Mixing between quadrants}{19}% 
+\contentsline {subsubsection}{Atmospheric profiles}{20}% 
+\contentsline {subsubsection}{In-cloud variability}{27}% 
+\contentsline {subsection}{\numberline {1.1.7}Summary}{32}% 
+\contentsline {section}{\numberline {1.2}Below cloud: Boundary-layer controls on convective cloud development}{33}% 
+\contentsline {subsection}{\numberline {1.2.1}Motivation}{33}% 
+\contentsline {subsubsection}{Causes of CBL variability}{33}% 
+\contentsline {subsubsection}{Effects of CBL variability on convective cloud development}{33}% 
+\contentsline {subsubsection}{Research questions}{35}% 
+\contentsline {subsubsection}{Chapter overview}{35}% 
+\contentsline {subsection}{\numberline {1.2.2}Method}{37}% 
+\contentsline {subsection}{\numberline {1.2.3}Results}{40}% 
+\contentsline {subsubsection}{Boundary layer water vapour path}{40}% 
+\contentsline {subsubsection}{Integrated boundary layer buoyancy}{48}% 
+\contentsline {subsubsection}{Dilution of cloud core}{53}% 
+\contentsline {paragraph}{Domain-mean tracer concentration}{54}% 
+\contentsline {paragraph}{In-cloud tracer concentration}{60}% 
+\contentsline {subsubsection}{Boundary layer vertical velocity}{64}% 
+\contentsline {paragraph}{Relationship to maximum cloud base area}{67}% 
+\contentsline {subsection}{\numberline {1.2.4}Conclusions}{69}% 
+\contentsline {section}{\numberline {1.3}Above cloud: The effect of convectively-generated gravity waves on cloud initiation and development}{70}% 
+\contentsline {subsection}{\numberline {1.3.1}Motivation}{70}% 
+\contentsline {subsection}{\numberline {1.3.2}Visualisation of gravity waves}{71}% 
+\contentsline {subsection}{\numberline {1.3.3}Wave period}{74}% 
+\contentsline {subsection}{\numberline {1.3.4}Convectively generated waves}{77}% 
+\contentsline {subsection}{\numberline {1.3.5}Gravity wave phase controls on cloud development}{78}% 
+\contentsline {subsubsection}{Gravity wave interactions between multiple clouds}{82}% 
+\contentsline {subsection}{\numberline {1.3.6}Further analysis using idealised LES simulations}{86}% 
+\contentsline {subsection}{\numberline {1.3.7}Discussion}{86}% 
+\contentsline {subsubsection}{Summary}{86}% 
+\contentsline {chapter}{Bibliography}{87}% 

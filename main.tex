@@ -1,0 +1,135 @@
+\documentclass[12pt]{report}
+
+% Pacakges needed
+\usepackage{geometry}   
+\usepackage[utf8]{inputenc}
+\usepackage{bm} % Can use bold font in math mode
+\usepackage{graphicx} % Needed to display graphics
+\usepackage[font=small,format=plain,labelfont=bf,textfont=it]{caption} % Defines caption
+\usepackage{subfigure}
+\usepackage{amsmath} % math package
+\usepackage{textcomp} % For text symbols
+\usepackage{enumitem} % For customising lists
+\usepackage{gensymb} % For symbols in math mode
+\usepackage{pdflscape} % To turn a page into landscape layout
+\usepackage{lscape} % Ditto
+\usepackage{adjustbox}
+\usepackage{bigints} % For large integral symbols
+\usepackage{makecell} % For defining cells in tables
+\usepackage{pbox} % For defining cell width in tables
+\usepackage[table]{xcolor} % For using HEX colour codes http://ctan.org/pkg/xcolor
+\usepackage{multicol} % Used for joining specific cells of tables together
+\usepackage{multirow} % Used for joining specific cells of tables together
+\usepackage[nottoc]{tocbibind} % Puts List of Figures, the List of Tables, the Bibliography and the Index all to be added to the Table of Contents
+\graphicspath{ {images/} }
+\usepackage{natbib} % using natbib allows the use of citet and citep
+\usepackage{array} % Used for fixing size of columns/rows in tables
+\usepackage{setspace} 
+
+
+% Layout of page
+\onehalfspacing
+\geometry{a4paper,twoside,inner=40mm,outer=25mm,top=30mm,bottom=35mm}
+\usepackage{fancyhdr} % For making headers and footers
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{1.0pt} % sets thickness of header rule
+
+\newcommand{\changefont}{\fontsize{12}{11}\selectfont}
+	
+\fancyhf[lh]{\changefont \textsc{\chaptername \thechapter, Section \thesection}} %\rightmark}
+\fancyhf[rh]{\changefont \thepage} % Page number top right
+
+% Allow numbers for subsubsections
+%\setcounter{secnumdepth}{3}
+
+\begin{document}
+
+% WORD COUNT %
+%\newcommand{\quickwordcount}[1]{%
+%  \immediate\write18{texcount -1 -sum -merge #1.tex > #1-words.sum }%
+%  \input{#1-words.sum} words%
+%  }
+
+%\quickwordcount{main}
+
+%----------------------------------------------------------------------------%
+
+%\input{titlepage.tex}
+%
+
+%\input{chapters/abstract.tex}
+
+%\chapter*{Dedication}
+%Housemates, Craig, Josie, Richard, Guins
+ 
+%\chapter*{Declaration}
+%I declare that..
+
+%\chapter*{Acknowledgements}
+%Data - BADC, UKWA image?
+%Academic - Supersivors, Leif Denby, Chris Dearden, Adrian Hill (Gabriel Rooney, Mike Whitall, Rachel Stratton), %Richard Rigby, Lindsay Bennett, dean, beth
+%We acknowledge use of the MONSooN system, a collaborative facility supplied under the Joint Weather and Climate %Research Programme, a strategic partnership between the Met Office and the Natural Environment Research Council.
+
+%\chapter*{Abbreviations}
+%\input{chapters/abbreviations.tex}
+ 
+\tableofcontents
+
+%----------------------------------------------------------------------------%
+\pagenumbering{arabic}  
+
+%\chapter{Introduction}
+%\input{chapters/Literature/litreview.tex}
+%\cleardoublepage
+
+%\chapter{Literature Review}
+%\input{chapters/Literature/litreview.tex}
+%\cleardoublepage
+ 
+%\chapter{General Methodology}
+%\input{chapters/General_Method/general_method.tex}
+%\cleardoublepage
+
+%\chapter{Results CH1}
+%\include{chapters/Method/Results_1/CH1_p1.tex}
+%\cleardoublepage
+
+
+% Multi flux
+\chapter{What controls the initiation and development of non-precipitating shallow cumulus clouds in an idealised model framework?}
+%\include{chapters/Method/Results_2/CH2_p1.tex}
+\input{chapters/Method/Results_2/CH2_p1.tex}
+% Boundary layers
+%\input{chapters/Method/Results_2/CH2_p2.tex}
+% Gravity waves
+%\input{chapters/Method/Results_2/CH2_p3.tex}
+\cleardoublepage
+
+% Results chapter 3 - back to homogeneous fluxes
+% Results chapter 4 - comorph
+
+%----------------------------------------------------------------------------%
+
+%\begin{appendices}
+
+%\chapter{Appendix A}
+%\input{chapters/appendix_a.tex}
+%\chapter{Appendix B}
+%\input{chapters/appendix_b.tex}
+%\chapter{Appendix C}
+%\input{chapters/appendix_c.tex}
+
+%\end{appendices}
+
+
+%\thispagestyle{empty}
+%\listoffigures
+%\listoftables
+%\newpage
+%\bering{arabic}
+%\bibliographystyle{abbrv}
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\end{document}

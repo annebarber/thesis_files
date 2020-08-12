@@ -1,0 +1,1588 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.3)  12 AUG 2020 18:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2018-12-01>
+(/app/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/app/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/app/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/app/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/app/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/app/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/app/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/app/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/app/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/app/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/app/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/app/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/app/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/app/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/app/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/app/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@caption@flags=\count92
+\c@ContinuedFloat=\count93
+)
+(/app/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen120
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen121
+\subfiglabelskip=\skip46
+\c@subfigure=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@lotdepth=\count97
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/app/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/app/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/app/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/app/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen122
+))
+(/app/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen123
+)
+(/app/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks19
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks20
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/app/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/app/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/app/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/app/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen131
+\enit@toks=\toks23
+\enit@inbox=\box29
+\enit@count@id=\count110
+\enitdp@description=\count111
+)
+(/app/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/app/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/app/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/app/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/app/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/app/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/app/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count112
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/app/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/app/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/app/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box30
+)
+\tc@llx=\dimen132
+\tc@lly=\dimen133
+\tc@urx=\dimen134
+\tc@ury=\dimen135
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/app/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen136
+\adjbox@Height=\dimen137
+\adjbox@Depth=\dimen138
+\adjbox@Totalheight=\dimen139
+\adjbox@pwidth=\dimen140
+\adjbox@pheight=\dimen141
+\adjbox@pdepth=\dimen142
+\adjbox@ptotalheight=\dimen143
+
+(/app/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count113
+)
+(/app/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count114
+\@vwid@loff=\dimen144
+\@vwid@roff=\dimen145
+))
+(/app/texmf-dist/tex/latex/bigints/bigints.sty
+Package: bigints 2010/02/15 Writing big integrals
+Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
+)
+(/app/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/app/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box32
+\extrarowheight=\dimen147
+\NC@list=\toks26
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box33
+)
+\rotheadsize=\dimen148
+\c@nlinenum=\count115
+\TeXr@lab=\toks27
+)
+(/app/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(/app/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count116
+\calc@Bcount=\count117
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count118
+\calc@Cskip=\skip57
+)
+(/app/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip58
+)
+(/app/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/app/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/app/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip59
+)
+\rownum=\count119
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/app/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count120
+\mult@box=\box34
+\multicol@leftmargin=\dimen151
+\c@unbalance=\count121
+\c@collectmore=\count122
+\doublecol@number=\count123
+\multicoltolerance=\count124
+\multicolpretolerance=\count125
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box35
+\last@line=\box36
+\maxbalancingoverflow=\dimen156
+\mult@rightbox=\box37
+\mult@grightbox=\box38
+\mult@gfirstbox=\box39
+\mult@firstbox=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\c@columnbadness=\count126
+\c@finalcolumnbadness=\count127
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
+\mult@nat@firstbox=\box58
+\colbreak@box=\box59
+\mc@col@check@num=\count128
+)
+(/app/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count129
+\multirow@dima=\skip63
+\bigstrutjot=\dimen160
+)
+(/app/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/app/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip64
+\bibsep=\skip65
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count130
+)
+(/app/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/app/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+) (./main.aux
+
+LaTeX Warning: Label `eqn:weighted_tracer' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 46.
+ (/app/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 46.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 660.10394pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=660.10394pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/app/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen161
+\scratchbox=\box60
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen162
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks30
+) (/app/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/app/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/app/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/app/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/app/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/app/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/app/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/app/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/app/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/app/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/app/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 46.
+Package gensymb Info: Math companion symbols declared on input line 46.
+LaTeX Info: Redefining \degree on input line 46.
+LaTeX Info: Redefining \celsius on input line 46.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 46.
+LaTeX Info: Redefining \ohm on input line 46.
+Package gensymb Info: Using \textohm for \ohm on input line 46.
+Package gensymb Info: Using \textmu for \micro on input line 46.
+ (./main.toc
+Overfull \hbox (4.99301pt too wide) in paragraph at lines 1--1
+  []\OT1/cmr/bx/n/12 What con-trols the ini-ti-a-tion and de-vel-op-ment of non
+-precipitating 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+
+{/app/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Chapter 1.
+(./chapters/Method/Results_2/CH2_p1.tex
+Overfull \hbox (1.81075pt too wide) in paragraph at lines 3--3
+[]\OT1/cmr/bx/n/17.28 Generating shal-low con-vec-tive clouds in LES
+ []
+
+[2
+
+] [3]
+
+LaTeX Warning: Reference `tab:my_label' on page 4 undefined on input line 40.
+
+
+LaTeX Warning: Reference `homog_setup' on page 4 undefined on input line 45.
+
+[4] [5] [6]
+<images/Method/OB1/local_flux/local_flux_evol_vs_c500.png, id=32, 1765.3152pt x
+ 1172.2194pt>
+File: images/Method/OB1/local_flux/local_flux_evol_vs_c500.png Graphic file (ty
+pe png)
+<use images/Method/OB1/local_flux/local_flux_evol_vs_c500.png>
+Package pdftex.def Info: images/Method/OB1/local_flux/local_flux_evol_vs_c500.p
+ng  used on input line 91.
+(pdftex.def)             Requested size: 625.96062pt x 415.66681pt.
+
+
+LaTeX Warning: Float too large for page by 53.90184pt on input line 94.
+
+[7 <./images/Method/OB1/local_flux/local_flux_evol_vs_c500.png>]
+<images/Method/OB1/local_flux/cloc_cross_sections.png, id=42, 1216.545pt x 572.
+3784pt>
+File: images/Method/OB1/local_flux/cloc_cross_sections.png Graphic file (type p
+ng)
+<use images/Method/OB1/local_flux/cloc_cross_sections.png>
+Package pdftex.def Info: images/Method/OB1/local_flux/cloc_cross_sections.png  
+used on input line 103.
+(pdftex.def)             Requested size: 455.24408pt x 214.18721pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 103--104
+ [][] 
+ []
+
+[8
+
+
+
+ <./images/Method/OB1/local_flux/cloc_cross_sections.png>] [9]
+<images/Method/OB1/local_flux/local_flux_radius.png, id=51, 1768.6075pt x 1173.
+38374pt>
+File: images/Method/OB1/local_flux/local_flux_radius.png Graphic file (type png
+)
+<use images/Method/OB1/local_flux/local_flux_radius.png>
+Package pdftex.def Info: images/Method/OB1/local_flux/local_flux_radius.png  us
+ed on input line 126.
+(pdftex.def)             Requested size: 625.96062pt x 415.29189pt.
+
+
+LaTeX Warning: Float too large for page by 53.52692pt on input line 129.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/local_flux/local_flux_amplitude.png, id=52, 1768.6075pt x 11
+73.38374pt>
+File: images/Method/OB1/local_flux/local_flux_amplitude.png Graphic file (type 
+png)
+<use images/Method/OB1/local_flux/local_flux_amplitude.png>
+Package pdftex.def Info: images/Method/OB1/local_flux/local_flux_amplitude.png 
+ used on input line 133.
+(pdftex.def)             Requested size: 625.96062pt x 415.29189pt.
+
+LaTeX Warning: Float too large for page by 53.52692pt on input line 136.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/local_flux/local_flux_duration.png, id=53, 1768.6075pt x 117
+3.38374pt>
+File: images/Method/OB1/local_flux/local_flux_duration.png Graphic file (type p
+ng)
+<use images/Method/OB1/local_flux/local_flux_duration.png>
+Package pdftex.def Info: images/Method/OB1/local_flux/local_flux_duration.png  
+used on input line 140.
+(pdftex.def)             Requested size: 625.96062pt x 415.29189pt.
+
+LaTeX Warning: Float too large for page by 53.52692pt on input line 143.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./images/Method/OB1/local_flux/local_flux_radius.png>] [11 <./images/Metho
+d/OB1/local_flux/local_flux_amplitude.png>] [12 <./images/Method/OB1/local_flux
+/local_flux_duration.png>] [13
+
+
+
+]
+<images/Method/OB1/multi_flux/multi_flux_setup.png, id=70, 270.7716pt x 268.844
+4pt>
+File: images/Method/OB1/multi_flux/multi_flux_setup.png Graphic file (type png)
+
+<use images/Method/OB1/multi_flux/multi_flux_setup.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/multi_flux_setup.png  use
+d on input line 177.
+(pdftex.def)             Requested size: 227.62204pt x 226.00415pt.
+ [14 <./images/Method/OB1/multi_flux/multi_flux_setup.png>]
+<images/Method/OB1/multi_flux/multi_flux_subplots.png, id=75, 1058.2737pt x 106
+3.5735pt>
+File: images/Method/OB1/multi_flux/multi_flux_subplots.png Graphic file (type p
+ng)
+<use images/Method/OB1/multi_flux/multi_flux_subplots.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/multi_flux_subplots.png  
+used on input line 191.
+(pdftex.def)             Requested size: 483.69684pt x 486.11758pt.
+
+Overfull \hbox (71.13187pt too wide) in paragraph at lines 191--192
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15] [16 <./images/Method/OB1/multi_flux/multi_flux_subplots.png>]
+<images/Method/OB1/multi_flux/multi_flux_evolution.png, id=83, 1806.9909pt x 12
+10.0407pt>
+File: images/Method/OB1/multi_flux/multi_flux_evolution.png Graphic file (type 
+png)
+<use images/Method/OB1/multi_flux/multi_flux_evolution.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/multi_flux_evolution.png 
+ used on input line 201.
+(pdftex.def)             Requested size: 569.05511pt x 381.07253pt.
+
+
+LaTeX Warning: Float too large for page by 19.30756pt on input line 204.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./images/Method/OB1/multi_flux/multi_flux_evolution.png>]
+<images/Method/OB1/multi_flux/w_vs_cba.png, id=88, 1174.6284pt x 503.481pt>
+File: images/Method/OB1/multi_flux/w_vs_cba.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/w_vs_cba.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/w_vs_cba.png  used on inp
+ut line 213.
+(pdftex.def)             Requested size: 512.1496pt x 219.5195pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 213--214
+ [][] 
+ []
+
+[18
+
+
+ <./images/Method/OB1/multi_flux/w_vs_cba.png>]
+<images/Method/OB1/multi_flux/cldbase_tracer_conc.png, id=93, 682.7106pt x 647.
+0574pt>
+File: images/Method/OB1/multi_flux/cldbase_tracer_conc.png Graphic file (type p
+ng)
+<use images/Method/OB1/multi_flux/cldbase_tracer_conc.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/cldbase_tracer_conc.png  
+used on input line 228.
+(pdftex.def)             Requested size: 398.33858pt x 377.54466pt.
+
+Underfull \hbox (badness 1635) in paragraph at lines 229--229
+[]\OT1/cmr/bx/n/10.95 Figure 1.10: |\OT1/cmr/m/it/10.95 In-te-grated tracer con
+-cen-tra-tion at 90 min-utes from sim-u-la-tion
+ []
+
+[19
+
+ <./images/Method/OB1/multi_flux/cldbase_tracer_conc.png>]
+
+LaTeX Warning: Reference `purity_tracer' on page 20 undefined on input line 237
+.
+
+<images/Method/OB1/multi_flux/purity_cutoff.png, id=99, 1211.52625pt x 1164.35p
+t>
+File: images/Method/OB1/multi_flux/purity_cutoff.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/purity_cutoff.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/purity_cutoff.png  used o
+n input line 241.
+(pdftex.def)             Requested size: 398.33858pt x 382.83313pt.
+[20] [21 <./images/Method/OB1/multi_flux/purity_cutoff.png>]
+<images/Method/OB1/multi_flux/purity_cutoff_pdf.png, id=107, 730.73pt x 599.238
+75pt>
+File: images/Method/OB1/multi_flux/purity_cutoff_pdf.png Graphic file (type png
+)
+<use images/Method/OB1/multi_flux/purity_cutoff_pdf.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/purity_cutoff_pdf.png  us
+ed on input line 255.
+(pdftex.def)             Requested size: 398.33858pt x 326.65637pt.
+ [22
+
+ <./images/Method/OB1/multi_flux/purity_cutoff_pdf.png>]
+<images/Method/OB1/multi_flux/final_cloud_regions.png, id=112, 895.6662pt x 865
+.7946pt>
+File: images/Method/OB1/multi_flux/final_cloud_regions.png Graphic file (type p
+ng)
+<use images/Method/OB1/multi_flux/final_cloud_regions.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/final_cloud_regions.png  
+used on input line 278.
+(pdftex.def)             Requested size: 398.33858pt x 385.0462pt.
+ [23 <./images/Method/OB1/multi_flux/final_cloud_regions.png>] [24
+
+] [25]
+<images/Method/OB1/multi_flux/full_profiles2.png, id=124, 1768.6878pt x 1983.08
+88pt>
+File: images/Method/OB1/multi_flux/full_profiles2.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/full_profiles2.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/full_profiles2.png  used 
+on input line 310.
+(pdftex.def)             Requested size: 512.1496pt x 574.23376pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 310--311
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 32.92986pt on input line 313.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <./images/Method/OB1/multi_flux/full_profiles2.png>] [27
+
+
+] [28]
+<images/Method/OB1/multi_flux/pdf_qt.png, id=135, 1908.8916pt x 1284.9606pt>
+File: images/Method/OB1/multi_flux/pdf_qt.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/pdf_qt.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/pdf_qt.png  used on input
+ line 345.
+(pdftex.def)             Requested size: 569.05511pt x 383.0403pt.
+
+
+LaTeX Warning: Float too large for page by 21.27533pt on input line 348.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/multi_flux/pdf_buoy.png, id=136, 1812.0498pt x 1261.3524pt>
+File: images/Method/OB1/multi_flux/pdf_buoy.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/pdf_buoy.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/pdf_buoy.png  used on inp
+ut line 352.
+(pdftex.def)             Requested size: 569.05511pt x 396.11557pt.
+
+LaTeX Warning: Float too large for page by 34.3506pt on input line 355.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/multi_flux/pdf_w.png, id=137, 1844.8122pt x 1262.7978pt>
+File: images/Method/OB1/multi_flux/pdf_w.png Graphic file (type png)
+<use images/Method/OB1/multi_flux/pdf_w.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/pdf_w.png  used on input 
+line 359.
+(pdftex.def)             Requested size: 569.05511pt x 389.5364pt.
+
+LaTeX Warning: Float too large for page by 27.77144pt on input line 362.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29 <./images/Method/OB1/multi_flux/pdf_qt.png>] [30 <./images/Method/OB1/multi
+_flux/pdf_buoy.png>] [31 <./images/Method/OB1/multi_flux/pdf_w.png>] [32
+
+
+]
+<images/Method/OB1/hyp2/std_therms.png, id=154, 1216.545pt x 634.0488pt>
+File: images/Method/OB1/hyp2/std_therms.png Graphic file (type png)
+<use images/Method/OB1/hyp2/std_therms.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/std_therms.png  used on input l
+ine 398.
+(pdftex.def)             Requested size: 398.33858pt x 207.60172pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33
+
+] [34 <./images/Method/OB1/hyp2/std_therms.png>]
+<images/Method/OB1/multi_flux/massflux_vs_w_vs_cba.png, id=163, 1750.3794pt x 5
+14.0806pt>
+File: images/Method/OB1/multi_flux/massflux_vs_w_vs_cba.png Graphic file (type 
+png)
+<use images/Method/OB1/multi_flux/massflux_vs_w_vs_cba.png>
+Package pdftex.def Info: images/Method/OB1/multi_flux/massflux_vs_w_vs_cba.png 
+ used on input line 412.
+(pdftex.def)             Requested size: 483.69684pt x 142.05896pt.
+
+Overfull \hbox (71.13187pt too wide) in paragraph at lines 412--413
+ [][] 
+ []
+
+[35 <./images/Method/OB1/multi_flux/massflux_vs_w_vs_cba.png>] [36] [37
+
+]
+
+LaTeX Warning: Reference `tab:my_label' on page 38 undefined on input line 467.
+
+
+
+Overfull \hbox (7.9501pt too wide) in paragraph at lines 469--470
+[]\OT1/cmr/m/n/12 Third, the re-la-tion-ships be-tween bound-ary layer ther-mo-
+dy-nam-ics (wa-ter vapour
+ []
+
+[38]
+<images/Method/OB1/hyp2/boundary_layer_properties_multi_flux.png, id=180, 1658.
+195pt x 532.99126pt>
+File: images/Method/OB1/hyp2/boundary_layer_properties_multi_flux.png Graphic f
+ile (type png)
+<use images/Method/OB1/hyp2/boundary_layer_properties_multi_flux.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/boundary_layer_properties_multi
+_flux.png  used on input line 488.
+(pdftex.def)             Requested size: 660.10394pt x 212.17613pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 488--489
+[]$[]$ 
+ []
+
+[39
+
+ <./images/Method/OB1/hyp2/boundary_layer_properties_multi_flux.png>]
+<images/Method/OB1/hyp2/wvp_histogram_all.png, id=185, 1206.4272pt x 523.2348pt
+>
+File: images/Method/OB1/hyp2/wvp_histogram_all.png Graphic file (type png)
+<use images/Method/OB1/hyp2/wvp_histogram_all.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/wvp_histogram_all.png  used on 
+input line 509.
+(pdftex.def)             Requested size: 426.79134pt x 185.09895pt.
+
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 509--510
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40
+
+]
+<images/Method/OB1/hyp2/wvp_bl_masks.png, id=189, 1113.15875pt x 526.96875pt>
+File: images/Method/OB1/hyp2/wvp_bl_masks.png Graphic file (type png)
+<use images/Method/OB1/hyp2/wvp_bl_masks.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/wvp_bl_masks.png  used on input
+ line 518.
+(pdftex.def)             Requested size: 398.33858pt x 188.57483pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp2/scatterplots_wvp.png, id=190, 1116.8124pt x 520.8258pt>
+
+File: images/Method/OB1/hyp2/scatterplots_wvp.png Graphic file (type png)
+<use images/Method/OB1/hyp2/scatterplots_wvp.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/scatterplots_wvp.png  used on i
+nput line 527.
+(pdftex.def)             Requested size: 512.1496pt x 238.85164pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 527--528
+ [][] 
+ []
+
+[41 <./images/Method/OB1/hyp2/wvp_histogram_all.png>]
+
+LaTeX Warning: Reference `tab:my_label' on page 42 undefined on input line 546.
+
+
+[42 <./images/Method/OB1/hyp2/wvp_bl_masks.png>] [43 <./images/Method/OB1/hyp2/
+scatterplots_wvp.png>]
+Overfull \hbox (24.3776pt too wide) in paragraph at lines 568--569
+\OT1/cmr/m/n/12 Rearranging Equa-tion 1.7[], and sub-sti-tut-ing an ap-prox-i-m
+ate value of $\OML/cmm/m/it/12 q[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cm
+r/m/n/12 008 []$
+ []
+
+[44]
+<images/Method/OB1/hyp2/flux_and_bubble.png, id=207, 1111.9944pt x 574.0647pt>
+File: images/Method/OB1/hyp2/flux_and_bubble.png Graphic file (type png)
+<use images/Method/OB1/hyp2/flux_and_bubble.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/flux_and_bubble.png  used on in
+put line 575.
+(pdftex.def)             Requested size: 512.1496pt x 264.40582pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 575--576
+ [][] 
+ []
+
+<images/Method/OB1/hyp2/flux_22.png, id=208, 1787.478pt x 1192.2141pt>
+File: images/Method/OB1/hyp2/flux_22.png Graphic file (type png)
+<use images/Method/OB1/hyp2/flux_22.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/flux_22.png  used on input line
+ 584.
+(pdftex.def)             Requested size: 512.1496pt x 341.58553pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 584--585
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45
+
+ <./images/Method/OB1/hyp2/flux_and_bubble.png>] [46 <./images/Method/OB1/hyp2/
+flux_22.png>] [47]
+<images/Method/OB1/hyp2/mean_w_cylinder_diff.png, id=220, 1587.0492pt x 517.935
+pt>
+File: images/Method/OB1/hyp2/mean_w_cylinder_diff.png Graphic file (type png)
+<use images/Method/OB1/hyp2/mean_w_cylinder_diff.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/mean_w_cylinder_diff.png  used 
+on input line 617.
+(pdftex.def)             Requested size: 512.1496pt x 167.14142pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 617--618
+ [][] 
+ []
+
+[48
+
+ <./images/Method/OB1/hyp2/mean_w_cylinder_diff.png>]
+<images/Method/OB1/hyp2/cape_histogram_all.png, id=225, 1204.9818pt x 523.2348p
+t>
+File: images/Method/OB1/hyp2/cape_histogram_all.png Graphic file (type png)
+<use images/Method/OB1/hyp2/cape_histogram_all.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/cape_histogram_all.png  used on
+ input line 690.
+(pdftex.def)             Requested size: 512.1496pt x 222.3918pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 690--691
+ [][] 
+ []
+
+[49 <./images/Method/OB1/hyp2/cape_histogram_all.png>]
+<images/Method/OB1/hyp2/scatterplots_cape.png, id=231, 1118.7396pt x 520.8258pt
+>
+File: images/Method/OB1/hyp2/scatterplots_cape.png Graphic file (type png)
+<use images/Method/OB1/hyp2/scatterplots_cape.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/scatterplots_cape.png  used on 
+input line 706.
+(pdftex.def)             Requested size: 512.1496pt x 238.43839pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 706--707
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `tab:my_label' on page 50 undefined on input line 714.
+
+
+[50 <./images/Method/OB1/hyp2/scatterplots_cape.png>] [51]
+<images/Method/OB1/hyp2/flux_and_bubble_subplot.png, id=240, 1105.4901pt x 954.
+9276pt>
+File: images/Method/OB1/hyp2/flux_and_bubble_subplot.png Graphic file (type png
+)
+<use images/Method/OB1/hyp2/flux_and_bubble_subplot.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/flux_and_bubble_subplot.png  us
+ed on input line 745.
+(pdftex.def)             Requested size: 512.1496pt x 442.40479pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 745--746
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp2/flux_and_bubble_buoyancy_effects_22.png, id=241, 1772.5
+422pt x 1176.5556pt>
+File: images/Method/OB1/hyp2/flux_and_bubble_buoyancy_effects_22.png Graphic fi
+le (type png)
+<use images/Method/OB1/hyp2/flux_and_bubble_buoyancy_effects_22.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/flux_and_bubble_buoyancy_effect
+s_22.png  used on input line 761.
+(pdftex.def)             Requested size: 512.1496pt x 339.95364pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 761--762
+ [][] 
+ []
+
+[52
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 787--787
+[]\OT1/cmr/m/n/10 LH - flux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
+[]\OT1/cmr/m/n/10 NLH in-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 789--789
+\OT1/cmr/m/n/10 crease as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--791
+[]\OT1/cmr/m/n/10 NLH in-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 791--791
+\OT1/cmr/m/n/10 crease as a
+ []
+
+[53]
+<images/Method/OB1/hyp2/tracer_and_qc.png, id=249, 675.0018pt x 597.9138pt>
+File: images/Method/OB1/hyp2/tracer_and_qc.png Graphic file (type png)
+<use images/Method/OB1/hyp2/tracer_and_qc.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/tracer_and_qc.png  used on inpu
+t line 858.
+(pdftex.def)             Requested size: 341.43306pt x 302.43219pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp2/contour_tracer_conc.png, id=250, 583.4598pt x 515.526pt
+>
+File: images/Method/OB1/hyp2/contour_tracer_conc.png Graphic file (type png)
+<use images/Method/OB1/hyp2/contour_tracer_conc.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/contour_tracer_conc.png  used o
+n input line 868.
+(pdftex.def)             Requested size: 284.52756pt x 251.40642pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp2/tracer_conc_profiles.png, id=251, 885.5484pt x 873.0216
+pt>
+File: images/Method/OB1/hyp2/tracer_conc_profiles.png Graphic file (type png)
+<use images/Method/OB1/hyp2/tracer_conc_profiles.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/tracer_conc_profiles.png  used 
+on input line 877.
+(pdftex.def)             Requested size: 512.1496pt x 504.9275pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 877--878
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[54] [55 <./images/Method/OB1/hyp2/flux_and_bubble_subplot.png>] [56 <./images/
+Method/OB1/hyp2/flux_and_bubble_buoyancy_effects_22.png>] [57 <./images/Method/
+OB1/hyp2/tracer_and_qc.png>] [58 <./images/Method/OB1/hyp2/contour_tracer_conc.
+png>] [59 <./images/Method/OB1/hyp2/tracer_conc_profiles.png>]
+<images/Method/OB1/hyp2/concentration_diff_moments.png, id=276, 1758.57pt x 640
+.3122pt>
+File: images/Method/OB1/hyp2/concentration_diff_moments.png Graphic file (type 
+png)
+<use images/Method/OB1/hyp2/concentration_diff_moments.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/concentration_diff_moments.png 
+ used on input line 903.
+(pdftex.def)             Requested size: 512.1496pt x 186.47717pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 903--904
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[60
+
+] [61 <./images/Method/OB1/hyp2/concentration_diff_moments.png>]
+<images/Method/OB1/hyp2/dilution_plots.png, id=285, 886.512pt x 868.6854pt>
+File: images/Method/OB1/hyp2/dilution_plots.png Graphic file (type png)
+<use images/Method/OB1/hyp2/dilution_plots.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/dilution_plots.png  used on inp
+ut line 942.
+(pdftex.def)             Requested size: 512.1496pt x 501.84962pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 942--943
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[62] [63 <./images/Method/OB1/hyp2/dilution_plots.png>]
+<images/Method/OB1/hyp2/w_variance.png, id=293, 636.9396pt x 617.1858pt>
+File: images/Method/OB1/hyp2/w_variance.png Graphic file (type png)
+<use images/Method/OB1/hyp2/w_variance.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/w_variance.png  used on input l
+ine 966.
+(pdftex.def)             Requested size: 284.52756pt x 275.69687pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp2/w_histogram_z250.png, id=294, 1197.7548pt x 523.7166pt>
+
+File: images/Method/OB1/hyp2/w_histogram_z250.png Graphic file (type png)
+<use images/Method/OB1/hyp2/w_histogram_z250.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/w_histogram_z250.png  used on i
+nput line 977.
+(pdftex.def)             Requested size: 512.1496pt x 223.93112pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 977--978
+ [][] 
+ []
+
+
+Package array Warning: Column P is already defined on input line 982.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[64
+
+] [65 <./images/Method/OB1/hyp2/w_variance.png> <./images/Method/OB1/hyp2/w_his
+togram_z250.png>] [66]
+<images/Method/OB1/hyp2/scatterplots_w250.png, id=306, 1116.8124pt x 519.3804pt
+>
+File: images/Method/OB1/hyp2/scatterplots_w250.png Graphic file (type png)
+<use images/Method/OB1/hyp2/scatterplots_w250.png>
+Package pdftex.def Info: images/Method/OB1/hyp2/scatterplots_w250.png  used on 
+input line 1023.
+(pdftex.def)             Requested size: 512.1496pt x 238.18877pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 1023--1025
+ [][] 
+ []
+
+[67
+
+] [68 <./images/Method/OB1/hyp2/scatterplots_w250.png>] [69
+
+]
+Overfull \hbox (47.65466pt too wide) in paragraph at lines 1078--1078
+[]\OT1/cmr/bx/n/17.28 Above cloud: The ef-fect of convectively-generated
+ []
+
+[70
+
+]
+<images/Method/OB1/hyp1/hovmoller_ensemble_y3000_velocity.png, id=321, 2357.808
+75pt x 1121.18875pt>
+File: images/Method/OB1/hyp1/hovmoller_ensemble_y3000_velocity.png Graphic file
+ (type png)
+<use images/Method/OB1/hyp1/hovmoller_ensemble_y3000_velocity.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/hovmoller_ensemble_y3000_veloci
+ty.png  used on input line 1120.
+(pdftex.def)             Requested size: 512.1496pt x 243.53152pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 1120--1121
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp1/hovmoller_ensemble_y3000_height.png, id=322, 2362.8275p
+t x 1121.18875pt>
+File: images/Method/OB1/hyp1/hovmoller_ensemble_y3000_height.png Graphic file (
+type png)
+<use images/Method/OB1/hyp1/hovmoller_ensemble_y3000_height.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/hovmoller_ensemble_y3000_height
+.png  used on input line 1127.
+(pdftex.def)             Requested size: 512.1496pt x 243.0183pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 1127--1128
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[71
+
+] [72 <./images/Method/OB1/hyp1/hovmoller_ensemble_y3000_velocity.png> <./image
+s/Method/OB1/hyp1/hovmoller_ensemble_y3000_height.png>]
+<images/Method/OB1/hyp1/vertical_hovmoller.png, id=331, 1017.8025pt x 1086.0575
+pt>
+File: images/Method/OB1/hyp1/vertical_hovmoller.png Graphic file (type png)
+<use images/Method/OB1/hyp1/vertical_hovmoller.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/vertical_hovmoller.png  used on
+ input line 1139.
+(pdftex.def)             Requested size: 455.24408pt x 485.77156pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 1139--1140
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[73 <./images/Method/OB1/hyp1/vertical_hovmoller.png>]
+Overfull \hbox (8.27351pt too wide) in paragraph at lines 1151--1152
+[]\OT1/cmr/m/n/12 Figure 1.42[] shows the evo-lu-tion of horizontal-mean $\OML/
+cmm/m/it/12 ^^R[]$ \OT1/cmr/m/n/12 for sim-u-la-tion Multi[]REF.
+ []
+
+<images/Method/OB1/hyp1/multi_flux_stability.png, id=337, 659.1024pt x 611.4042
+pt>
+File: images/Method/OB1/hyp1/multi_flux_stability.png Graphic file (type png)
+<use images/Method/OB1/hyp1/multi_flux_stability.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/multi_flux_stability.png  used 
+on input line 1165.
+(pdftex.def)             Requested size: 227.62204pt x 211.14925pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[74
+
+
+]
+<images/Method/OB1/hyp1/brunt_vaisala_waves.png, id=341, 1229.0718pt x 935.6556
+pt>
+File: images/Method/OB1/hyp1/brunt_vaisala_waves.png Graphic file (type png)
+<use images/Method/OB1/hyp1/brunt_vaisala_waves.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/brunt_vaisala_waves.png  used o
+n input line 1187.
+(pdftex.def)             Requested size: 426.79134pt x 324.90024pt.
+
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 1187--1188
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[75 <./images/Method/OB1/hyp1/multi_flux_stability.png>] [76 <./images/Method/O
+B1/hyp1/brunt_vaisala_waves.png>]
+<images/Method/OB1/hyp1/hovmoller_filtered.png, id=350, 1798.0776pt x 612.3678p
+t>
+File: images/Method/OB1/hyp1/hovmoller_filtered.png Graphic file (type png)
+<use images/Method/OB1/hyp1/hovmoller_filtered.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/hovmoller_filtered.png  used on
+ input line 1213.
+(pdftex.def)             Requested size: 512.1496pt x 174.4145pt.
+
+Overfull \hbox (99.58463pt too wide) in paragraph at lines 1213--1214
+ [][] 
+ []
+
+[77
+
+ <./images/Method/OB1/hyp1/hovmoller_filtered.png>]
+<images/Method/OB1/hyp1/multi_mf.png, id=355, 748.7975pt x 490.83376pt>
+File: images/Method/OB1/hyp1/multi_mf.png Graphic file (type png)
+<use images/Method/OB1/hyp1/multi_mf.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/multi_mf.png  used on input lin
+e 1225.
+(pdftex.def)             Requested size: 284.52756pt x 186.50378pt.
+ [78 <./images/Method/OB1/hyp1/multi_mf.png>]
+<images/Method/OB1/hyp1/shift_thermo.png, id=360, 1234.8534pt x 662.475pt>
+File: images/Method/OB1/hyp1/shift_thermo.png Graphic file (type png)
+<use images/Method/OB1/hyp1/shift_thermo.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/shift_thermo.png  used on input
+ line 1236.
+(pdftex.def)             Requested size: 398.33858pt x 213.69456pt.
+ [79 <./images/Method/OB1/hyp1/shift_thermo.png>]
+<images/Method/OB1/hyp1/multi_flux_evolution_shifted.png, id=366, 1769.1696pt x
+ 1174.6284pt>
+File: images/Method/OB1/hyp1/multi_flux_evolution_shifted.png Graphic file (typ
+e png)
+<use images/Method/OB1/hyp1/multi_flux_evolution_shifted.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/multi_flux_evolution_shifted.pn
+g  used on input line 1250.
+(pdftex.def)             Requested size: 455.24408pt x 302.24167pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 1250--1251
+ [][] 
+ []
+
+[80 <./images/Method/OB1/hyp1/multi_flux_evolution_shifted.png>]
+<images/Method/OB1/hyp1/shifted_TR_stability.png, id=371, 1213.1724pt x 640.794
+pt>
+File: images/Method/OB1/hyp1/shifted_TR_stability.png Graphic file (type png)
+<use images/Method/OB1/hyp1/shifted_TR_stability.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/shifted_TR_stability.png  used 
+on input line 1266.
+(pdftex.def)             Requested size: 398.33858pt x 210.3969pt.
+ [81
+
+ <./images/Method/OB1/hyp1/shifted_TR_stability.png>]
+<images/Method/OB1/hyp1/multi_flux_evolution_one_headstart.png, id=376, 1769.16
+96pt x 1174.6284pt>
+File: images/Method/OB1/hyp1/multi_flux_evolution_one_headstart.png Graphic fil
+e (type png)
+<use images/Method/OB1/hyp1/multi_flux_evolution_one_headstart.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/multi_flux_evolution_one_headst
+art.png  used on input line 1298.
+(pdftex.def)             Requested size: 455.24408pt x 302.24167pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 1298--1299
+ [][] 
+ []
+
+[82 <./images/Method/OB1/hyp1/multi_flux_evolution_one_headstart.png>]
+<images/Method/OB1/hyp1/dom_mean_env.png, id=381, 1337.99875pt x 654.445pt>
+File: images/Method/OB1/hyp1/dom_mean_env.png Graphic file (type png)
+<use images/Method/OB1/hyp1/dom_mean_env.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/dom_mean_env.png  used on input
+ line 1327.
+(pdftex.def)             Requested size: 455.24408pt x 222.66814pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 1327--1328
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Method/OB1/hyp1/dom_mean_env_all.png, id=382, 1338.6813pt x 1291.4649pt
+>
+File: images/Method/OB1/hyp1/dom_mean_env_all.png Graphic file (type png)
+<use images/Method/OB1/hyp1/dom_mean_env_all.png>
+Package pdftex.def Info: images/Method/OB1/hyp1/dom_mean_env_all.png  used on i
+nput line 1334.
+(pdftex.def)             Requested size: 455.24408pt x 439.1908pt.
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 1334--1335
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[83] [84 <./images/Method/OB1/hyp1/dom_mean_env.png>] [85 <./images/Method/OB1/
+hyp1/dom_mean_env_all.png>]) [86
+
+] (./main.bbl [87
+
+
+] [88]) [89] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7991 strings out of 492623
+ 123274 string characters out of 6130947
+ 209725 words of memory out of 5000000
+ 11660 multiletter control sequences out of 15000+600000
+ 22387 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,19n,84p,1576b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/app/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</app/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></app/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
+b></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></app/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></app/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
+</app/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></app/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb></app/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></app/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></app/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss12.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></app/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></app/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></app/texmf-di
+st/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (89 pages, 12549065 bytes).
+PDF statistics:
+ 476 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+
